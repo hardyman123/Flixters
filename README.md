@@ -28,7 +28,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 It was difficult debugging features like getting the movies to load from the API. I also had difficulty in formatting the app
-because the text would overlap my images and some images would have large gaps between each other.
+because the text would overlap my images and some images would have large gaps between each other. Finally I kept getting the wrong placeholder image to show up, but was able to fix it after finding that the GlideApp was renamed as Glide.
 
 ## Open-source libraries used
 
